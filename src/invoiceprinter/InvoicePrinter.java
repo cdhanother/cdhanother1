@@ -25,6 +25,7 @@ public class InvoicePrinter {
                samsInvoice.add(new  Product("Car  vacuum",  19.99),  2);
   
                System.out.println(samsInvoice.format());  
+               System.out.println("OK");  
     }
     
 }
