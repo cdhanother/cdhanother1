@@ -27,6 +27,7 @@ public class InvoicePrinter {
                System.out.println(samsInvoice.format());  
                System.out.println("OK");  
                System.out.println("OK2");
+               System.out.println("OK4");
     }
     
 }
